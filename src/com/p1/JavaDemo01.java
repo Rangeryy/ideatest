@@ -5,7 +5,7 @@ package com.p1;
 //        Father   a = new Father();
 //    }
 //}
-//
+//test
 //class  Father{
 //    public Father(){
 //        System.out.println("我是父类");
